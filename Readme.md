@@ -8,7 +8,12 @@
  
 # <h1 align="center">**`Mercado bursátil`**</h1>
 
-### Rol a desarrollar
+### <p>Link repositorio Datasets: https://drive.google.com/drive/folders/11cWNiGaqtD47w6hW-w3mIBP2E4HDhkak?usp=share_link</p>
+
+
+
+
+### <p>Rol a desarrollar</p>
 
 Como actividad, se nos planteó una situación en donde una empresa nos solicitaba analizar el mercado bursatil en detalle, con la intención de invertir en el mismo. Cumpliendo con el rol de un experto en datos, debíamos considerar que la empresa no conocía área financiera, por lo tanto era necesario realizar una explicación de qué ha sucedido en este mercado en los últimos años, considerando impactos positivos y negativos a partir del año 2000. Todo esto sumado a recomendaciones de inversión, ya sea enfocada en empresas o rubros de éstas. 
 
@@ -18,7 +23,7 @@ Considerando la cantidad de empresas existentes en el mercado bursátil, se nos 
 
 El principal objetivo era poder conocer la situación del mercado bursátil en los últimos 23 años y en base a esto, ser capaz de dar un contexto de la situación y generar recomendaciones de inversión.
 
-### Desarrollo de las actividades 
+### <p>Desarrollo de las actividades </p>
 
 Inicialmente mendiante un proceso de ETL se elaboró un archivo que contiene los nombres de las empresas pertenecientes al índice SP500.
 A travéz del sitio web de finanzas sugerido (Yahoo Finance), se procedió a extraer la información correspondiente a los registros de los movimientos de los precios de las acciones de las empresas objetivo, desde el año 2000 hasta la actualidad.
